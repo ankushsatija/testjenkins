@@ -1,0 +1,25 @@
+{
+  "name": "opt",
+  "version": "1.0.0",
+  "description": "Simple Hello World demp app.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushsatija/testjenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankushsatija/testjenkins/issues"
+  },
+  "homepage": "https://github.com/ankushsatija/testjenkins#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

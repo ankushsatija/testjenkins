@@ -2,7 +2,7 @@
   "name": "opt",
   "version": "1.0.0",
   "description": "Simple Hello World demp app.",
-  "main": "index.js",
+  "main": "app.js",
   "directories": {
     "test": "test"
   },
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ankushsatija/testjenkins#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "forever": "^3.0.4"
   }
 }
